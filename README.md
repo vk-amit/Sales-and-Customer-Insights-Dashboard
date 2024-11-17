@@ -1,6 +1,6 @@
 # **Sales and Customer Insights Dashboard**
 
-An interactive and dynamic dashboard created using **Excel** and **Power BI** to analyze sales and customer data, identify trends, and provide actionable insights. This project helps stakeholders monitor key performance indicators (KPIs) and make informed decisions to optimize sales strategies and customer engagement.
+An interactive and dynamic dashboard created using **Excel** and **Tableau** to analyze sales and customer data, identify trends, and provide actionable insights. This project helps stakeholders monitor key performance indicators (KPIs) and make informed decisions to optimize sales strategies and customer engagement.
 
 ---
 
@@ -21,7 +21,7 @@ An interactive and dynamic dashboard created using **Excel** and **Power BI** to
 ---
 
 ## **Technologies Used**
-- **Power BI**: For creating interactive and dynamic dashboards.
+- **Tableau**: For creating interactive and dynamic dashboards.
 - **Excel**: For data preprocessing, cleaning, and analysis.
 
 ---
